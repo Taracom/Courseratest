@@ -2,7 +2,7 @@
 Coursera test repository
 # Hello World
 - sucess in life is not an easy matter
-# HOME
+# Home
 -Live
-# CONTACT
+# Contract
 - The mantra to success is growth and sustainability
